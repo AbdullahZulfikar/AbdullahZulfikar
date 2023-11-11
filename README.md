@@ -1,4 +1,4 @@
-![logo](https://github.com/AbdullahZulfikar/AbdullahZulfikar/blob/main/Grey%20Minimalist%20Hello%20Facebook%20Cover.png)
+![logo](https://github.com/AbdullahZulfikar/AbdullahZulfikar/blob/main/Grey%20Minimalist%20Hello%20Facebook%20Cover%20(1).png)
 <h1 align="center">Hi 👋, I'm my name is Abdullah Zulfiqar</h1>
 <h3 align="center">A passionate Pyhton developer and AI engineer</h3>
 
