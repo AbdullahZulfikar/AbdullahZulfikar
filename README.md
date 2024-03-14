@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahzulfikar&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahzulfikar" /> </p>
 
-- 🌱 I’m currently learning **MI,scikit learn**
+- 🌱 I’m currently learning **MI,scikit learn, react,typescript and tailwindcss**
 
 - 💬 Ask me about **MI and python**
 
